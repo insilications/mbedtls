@@ -1,0 +1,3 @@
+sd -- " \-O2" " -O3" $(fd -uu --glob Makefile)
+sd -- " \-O2" " -O3" $(fd -uu --glob *.make)
+sd -- " \-O2" " -O3" $(fd -uu --glob link.txt)

@@ -1,0 +1,21 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+binutils-dev
+buildreq-cmake
+gcc
+gcc-dev
+gcc-doc
+gcc-libs-math
+gcc-libubsan
+gcc-locale
+openssl-dev
+openssl-staticdev
+pkg-config-dev
+readline-dev
+tcl
+tcl-dev
+tcl-staticdev
+xz-dev
+xz-staticdev
+zlib-dev
+zlib-staticdev
